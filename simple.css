@@ -543,6 +543,11 @@ border-radius: 5px;
       border: 1px solid #dedede;
     background-color: #fff;
     border-radius: 5px;
+    text-decoration: none;
+}
+
+.button{
+    color: #000;
 }
 
 .link{
@@ -616,6 +621,12 @@ border-radius: 5px;
     
 }
 
+.table .button,
+.table .button-delete,
+.table .button-success,
+.table .link{
+    margin: 0;
+}
 
 
 .border{
